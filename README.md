@@ -8,7 +8,8 @@ For the first lesson, 'intro-to-neural-nets.ipynb', please follow these setup st
     1. Go to "Open Notebook" (it should have popped up by default, but if not you can find it under the "File" menu)
     2. Select "GitHub"
     3. Enter the following path: https://github.com/marcshepard/teaching-data-science
-    4. Select intro-to-neural-nets.ipynb
-    5. Click the search icon
+    5. Click the search icon or wait a bit
+    6. Select intro-to-neural-nets.ipynb
+
 
 Congratulations, you now have a copy of the notebook. Notice the file extension is "ipynb", that stands for "interactive python notebook" and it is made up of alternative blocks of "markdown" (text/images) and "code cells" (things you can run interactively). For the rest of the lesson, we'll work through the notebook together. Don't worry if you don't understand the Python code - this is motivational for the type of things you can do in Python with very little code; and by the end of the year you'll have a solid grasp of Python that will let you write code like this as well.
